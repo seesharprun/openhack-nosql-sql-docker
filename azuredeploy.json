@@ -32,7 +32,7 @@
                     }
                 ],
                 "restartPolicy": "OnFailure",
-                "osType": "Windows",
+                "osType": "Linux",
                 "ipAddress": {
                     "type": "public",
                     "ports": [
