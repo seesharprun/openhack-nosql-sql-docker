@@ -1,0 +1,1 @@
+/var/opt/sqlserver/configure.sh & /opt/mssql/bin/sqlservr

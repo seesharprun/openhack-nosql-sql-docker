@@ -1,0 +1,1 @@
+/opt/mssql-tools/bin/sqlcmd -U sa -P demo@pass123 -Q "RESTORE DATABASE OpenHack FROM DISK='/var/opt/sqlserver/OpenHack.bak' "
